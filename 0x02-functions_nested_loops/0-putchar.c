@@ -1,4 +1,4 @@
-#include "main.h"
+int _putchar(char c);
 /**
   *main - print_putchar
   *is written by mbah
